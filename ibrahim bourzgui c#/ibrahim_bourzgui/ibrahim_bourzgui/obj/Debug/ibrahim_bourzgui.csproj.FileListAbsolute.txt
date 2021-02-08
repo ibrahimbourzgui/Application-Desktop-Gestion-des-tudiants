@@ -1,0 +1,26 @@
+C:\ADO.net\travaux pratique 2\ibrahim_bourzgui\ibrahim_bourzgui\bin\Debug\ibrahim_bourzgui.exe.config
+C:\ADO.net\travaux pratique 2\ibrahim_bourzgui\ibrahim_bourzgui\bin\Debug\ibrahim_bourzgui.exe
+C:\ADO.net\travaux pratique 2\ibrahim_bourzgui\ibrahim_bourzgui\bin\Debug\ibrahim_bourzgui.pdb
+C:\ADO.net\travaux pratique 2\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.csprojResolveAssemblyReference.cache
+C:\ADO.net\travaux pratique 2\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.ajouteretudiant.resources
+C:\ADO.net\travaux pratique 2\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.Form1.resources
+C:\ADO.net\travaux pratique 2\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.Properties.Resources.resources
+C:\ADO.net\travaux pratique 2\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.csproj.GenerateResource.Cache
+C:\ADO.net\travaux pratique 2\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.exe
+C:\ADO.net\travaux pratique 2\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.pdb
+C:\ADO.net\travaux pratique 2\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.afficheretudiant.resources
+C:\Users\DELL\Desktop\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\bin\Debug\ibrahim_bourzgui.exe.config
+C:\Users\DELL\Desktop\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.exe
+C:\Users\DELL\Desktop\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.pdb
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\bin\Debug\ibrahim_bourzgui.exe.config
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.exe
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.pdb
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\bin\Debug\ibrahim_bourzgui.exe
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\bin\Debug\ibrahim_bourzgui.pdb
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.afficheretudiant.resources
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.ajouteretudiant.resources
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.ajouterprojet.resources
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.Form1.resources
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.Properties.Resources.resources
+C:\Users\DELL\Desktop\tout document bureau\DOSSIER TOUT DOCUMENT\ibrahim bourzgui c#\ibrahim_bourzgui\ibrahim_bourzgui\obj\Debug\ibrahim_bourzgui.csproj.GenerateResource.Cache
